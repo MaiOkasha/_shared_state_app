@@ -1,0 +1,9 @@
+{
+  "app_name" : "App Name",
+  "login" : "Login",
+  "email" : "Email",
+  "password" : "Password",
+  "welcome": "Welcome back...",
+  "login_hint" : "Enter email & password",
+  "home" : "Home"
+}
