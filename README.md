@@ -1,4 +1,4 @@
-# vp12_shared_state_app
+# _shared_state_app
 
 A new Flutter project.
 
